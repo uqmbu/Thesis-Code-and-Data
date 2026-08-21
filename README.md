@@ -1,2 +1,1 @@
-# Thesis-Code-and-Data
-This repo contains the codes and csv's used to produce forecasts and visualizations for the thesis.
+CSV-Files that were inputs/outputs and necessary for further steps during the work. 
