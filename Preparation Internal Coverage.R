@@ -1,4 +1,7 @@
 rm(list = ls())
+
+# Debugging mit Claude Sonnet 5
+
 library(readr)
 library(dplyr)
 library(tidyr)

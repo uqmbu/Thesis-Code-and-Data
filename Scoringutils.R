@@ -1,5 +1,8 @@
 rm(list = ls())
 
+# Debugging mit Claude Sonnett 5
+
+
 # Scoringutils Funktion
 library(dplyr)
 library(readr)

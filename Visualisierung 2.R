@@ -1,4 +1,5 @@
 rm(list = ls())
+# Debugging mit Claude Sonnet 5
 
 library(ggplot2)
 library(dplyr)

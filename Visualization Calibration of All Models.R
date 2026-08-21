@@ -1,4 +1,6 @@
 rm(list = ls())
+# Debugging mit Claude Sonnet 5
+
 library(tidyverse)
 library(ggplot2)
 library(data.table)
