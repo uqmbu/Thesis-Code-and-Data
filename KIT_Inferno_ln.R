@@ -1,6 +1,8 @@
 
 rm(list = ls())
 
+# Claude Sonnet 5 was used for debugging and helped with (to me) new command,
+# overall outlook and better looking structure
 
 config <- list(
   data_url      = "https://raw.githubusercontent.com/KITmetricslab/RESPINOW-Hub/refs/heads/main/data/agi/are/latest_data-agi-are.csv",
