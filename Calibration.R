@@ -1,4 +1,6 @@
 rm(list = ls())
+# Debugging mit Claude Sonnet 5
+
 library(dplyr)
 library(readr)
 library(scoringutils)
